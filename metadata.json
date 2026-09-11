@@ -1,0 +1,6 @@
+{
+  "name": "Vaibhav Jadhav Music",
+  "description": "Hygienely - Complete modern health and hygiene habit-tracking application for students, homemakers, and senior citizens with daily tasks, educational arcade games, smart alerts, progress analytics, and wellness routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
